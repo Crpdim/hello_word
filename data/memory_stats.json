@@ -1,69 +1,69 @@
 {
   "revolt": {
     "level": 4,
-    "next_review": "2025-04-08T23:50:48.943778",
-    "correct_count": 11,
-    "total_count": 13
+    "next_review": "2025-04-08T23:58:03.052388",
+    "correct_count": 12,
+    "total_count": 14
   },
   "specialist": {
     "level": 4,
-    "next_review": "2025-04-10T23:53:08.200695",
-    "correct_count": 10,
-    "total_count": 11
+    "next_review": "2025-04-10T23:58:09.692394",
+    "correct_count": 11,
+    "total_count": 12
   },
   "carpet": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:04.946753",
-    "correct_count": 8,
-    "total_count": 8
+    "next_review": "2025-04-13T23:58:11.111647",
+    "correct_count": 9,
+    "total_count": 9
   },
   "meditation": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:07.275463",
-    "correct_count": 7,
-    "total_count": 7
+    "next_review": "2025-04-13T23:58:12.532639",
+    "correct_count": 8,
+    "total_count": 8
   },
   "persist": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:08.330260",
-    "correct_count": 7,
-    "total_count": 7
+    "next_review": "2025-04-13T23:58:14.068098",
+    "correct_count": 8,
+    "total_count": 8
   },
   "avoid": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:09.700172",
-    "correct_count": 7,
-    "total_count": 7
+    "next_review": "2025-04-13T23:58:15.359195",
+    "correct_count": 8,
+    "total_count": 8
   },
   "yellow": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:10.548176",
-    "correct_count": 6,
-    "total_count": 6
+    "next_review": "2025-04-13T23:58:16.686848",
+    "correct_count": 7,
+    "total_count": 7
   },
   "consult": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:11.426762",
-    "correct_count": 6,
-    "total_count": 6
+    "next_review": "2025-04-13T23:58:18.240178",
+    "correct_count": 7,
+    "total_count": 7
   },
   "assume": {
     "level": 4,
-    "next_review": "2025-04-13T23:36:12.315842",
-    "correct_count": 5,
-    "total_count": 5
+    "next_review": "2025-04-13T23:58:21.870201",
+    "correct_count": 6,
+    "total_count": 6
   },
   "doctorate": {
     "level": 0,
-    "next_review": "2025-02-28T23:50:45.584993",
-    "correct_count": 4,
-    "total_count": 6
+    "next_review": "2025-02-28T23:58:24.910028",
+    "correct_count": 5,
+    "total_count": 7
   },
   "resultant": {
     "level": 0,
-    "next_review": "2025-02-28T23:45:53.081749",
+    "next_review": "2025-02-28T23:58:27.934120",
     "correct_count": 5,
-    "total_count": 9
+    "total_count": 10
   },
   "fuse": {
     "level": 1,

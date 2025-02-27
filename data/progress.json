@@ -3,78 +3,78 @@
   "words": [
     {
       "word": "revolt",
-      "last_reviewed": "2025-02-27T23:50:48.934651",
-      "review_count": 24,
-      "correct_count": 18,
+      "last_reviewed": "2025-02-27T23:58:03.044377",
+      "review_count": 25,
+      "correct_count": 19,
       "difficulty_level": 1
     },
     {
       "word": "specialist",
-      "last_reviewed": "2025-02-27T23:53:08.192684",
-      "review_count": 17,
-      "correct_count": 13,
+      "last_reviewed": "2025-02-27T23:58:09.684371",
+      "review_count": 18,
+      "correct_count": 14,
       "difficulty_level": 1
     },
     {
       "word": "carpet",
-      "last_reviewed": "2025-02-27T23:36:04.939004",
+      "last_reviewed": "2025-02-27T23:58:11.104638",
+      "review_count": 15,
+      "correct_count": 13,
+      "difficulty_level": 0
+    },
+    {
+      "word": "meditation",
+      "last_reviewed": "2025-02-27T23:58:12.524759",
       "review_count": 14,
       "correct_count": 12,
       "difficulty_level": 0
     },
     {
-      "word": "meditation",
-      "last_reviewed": "2025-02-27T23:36:07.267716",
-      "review_count": 13,
-      "correct_count": 11,
-      "difficulty_level": 0
-    },
-    {
       "word": "persist",
-      "last_reviewed": "2025-02-27T23:36:08.322249",
-      "review_count": 11,
-      "correct_count": 11,
+      "last_reviewed": "2025-02-27T23:58:14.059084",
+      "review_count": 12,
+      "correct_count": 12,
       "difficulty_level": 0
     },
     {
       "word": "avoid",
-      "last_reviewed": "2025-02-27T23:36:09.692422",
-      "review_count": 9,
-      "correct_count": 9,
+      "last_reviewed": "2025-02-27T23:58:15.351186",
+      "review_count": 10,
+      "correct_count": 10,
       "difficulty_level": 0
     },
     {
       "word": "yellow",
-      "last_reviewed": "2025-02-27T23:36:10.540427",
-      "review_count": 7,
-      "correct_count": 7,
+      "last_reviewed": "2025-02-27T23:58:16.677826",
+      "review_count": 8,
+      "correct_count": 8,
       "difficulty_level": 0
     },
     {
       "word": "consult",
-      "last_reviewed": "2025-02-27T23:36:11.419014",
+      "last_reviewed": "2025-02-27T23:58:18.232036",
+      "review_count": 8,
+      "correct_count": 8,
+      "difficulty_level": 0
+    },
+    {
+      "word": "assume",
+      "last_reviewed": "2025-02-27T23:58:21.860870",
       "review_count": 7,
       "correct_count": 7,
       "difficulty_level": 0
     },
     {
-      "word": "assume",
-      "last_reviewed": "2025-02-27T23:36:12.308094",
-      "review_count": 6,
-      "correct_count": 6,
-      "difficulty_level": 0
-    },
-    {
       "word": "doctorate",
-      "last_reviewed": "2025-02-27T23:50:45.574527",
-      "review_count": 6,
-      "correct_count": 4,
+      "last_reviewed": "2025-02-27T23:58:24.903044",
+      "review_count": 7,
+      "correct_count": 5,
       "difficulty_level": 1
     },
     {
       "word": "resultant",
-      "last_reviewed": "2025-02-27T23:45:53.074781",
-      "review_count": 9,
+      "last_reviewed": "2025-02-27T23:58:27.927638",
+      "review_count": 10,
       "correct_count": 5,
       "difficulty_level": 2
     },
@@ -9543,6 +9543,13 @@
       "review_count": 3,
       "correct_count": 0,
       "difficulty_level": 2
+    },
+    {
+      "word": "resultant",
+      "last_reviewed": "2025-02-27T23:58:27.927638",
+      "review_count": 10,
+      "correct_count": 5,
+      "difficulty_level": 2
     }
   ],
   "review_history": {
@@ -9551,8 +9558,8 @@
       "correct": 21
     },
     "2025-02-27": {
-      "total": 107,
-      "correct": 92
+      "total": 118,
+      "correct": 102
     }
   }
 }

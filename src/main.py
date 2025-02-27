@@ -30,8 +30,8 @@ def run_main_loop(managers):
         except Exception as e:
             print(f"加载词库失败: {str(e)}")
             return
-        # normal_study_mode(managers)
-        review_mode(managers)
+        normal_study_mode(managers)
+        # review_mode(managers)
     except Exception as e:
         print(f"程序初始化失败: {str(e)}")
 
