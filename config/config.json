@@ -1,0 +1,24 @@
+{
+    "display": {
+        "show_translations": true,
+        "show_sentences": false,
+        "show_phonetics": false,
+        "show_phrases": false,
+        "show_memory_method": false,
+        "show_synonyms": false,
+        "show_tips": true
+    },
+    "mode": {
+        "default": "word",
+        "long_sentence_mode": true
+    },
+    "memorization": {
+        "algorithm": "spaced_repetition",
+        "intervals": [1, 3, 7, 15],
+        "mastery_threshold": 0.8
+    },
+    "word_database": {
+        "local_file": "data/word_database.json",
+        "remote_api": "https://api.example.com/words"
+    }
+}

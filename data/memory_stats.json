@@ -1,0 +1,92 @@
+{
+  "revolt": {
+    "level": 4,
+    "next_review": "2025-04-08T23:50:48.943778",
+    "correct_count": 11,
+    "total_count": 13
+  },
+  "specialist": {
+    "level": 4,
+    "next_review": "2025-04-10T23:53:08.200695",
+    "correct_count": 10,
+    "total_count": 11
+  },
+  "carpet": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:04.946753",
+    "correct_count": 8,
+    "total_count": 8
+  },
+  "meditation": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:07.275463",
+    "correct_count": 7,
+    "total_count": 7
+  },
+  "persist": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:08.330260",
+    "correct_count": 7,
+    "total_count": 7
+  },
+  "avoid": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:09.700172",
+    "correct_count": 7,
+    "total_count": 7
+  },
+  "yellow": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:10.548176",
+    "correct_count": 6,
+    "total_count": 6
+  },
+  "consult": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:11.426762",
+    "correct_count": 6,
+    "total_count": 6
+  },
+  "assume": {
+    "level": 4,
+    "next_review": "2025-04-13T23:36:12.315842",
+    "correct_count": 5,
+    "total_count": 5
+  },
+  "doctorate": {
+    "level": 0,
+    "next_review": "2025-02-28T23:50:45.584993",
+    "correct_count": 4,
+    "total_count": 6
+  },
+  "resultant": {
+    "level": 0,
+    "next_review": "2025-02-28T23:45:53.081749",
+    "correct_count": 5,
+    "total_count": 9
+  },
+  "fuse": {
+    "level": 1,
+    "next_review": "2025-03-02T23:53:01.379228",
+    "correct_count": 4,
+    "total_count": 5
+  },
+  "very": {
+    "level": 2,
+    "next_review": "2025-03-09T23:16:19.027459",
+    "correct_count": 2,
+    "total_count": 2
+  },
+  "critic": {
+    "level": 0,
+    "next_review": "2025-02-28T23:53:06.928762",
+    "correct_count": 3,
+    "total_count": 4
+  },
+  "ingenious": {
+    "level": 0,
+    "next_review": "2025-02-28T23:53:02.812883",
+    "correct_count": 1,
+    "total_count": 4
+  }
+}
