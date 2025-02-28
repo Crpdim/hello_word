@@ -6,6 +6,9 @@ class InputManager:
             b'y': 'yes',     # Y键 - 知道这个词
             b'n': 'no',      # N键 - 不知道
             b'q': 'quit',    # Q键 - 退出
+            b'h': 'help',    # H键 - 显示帮助
+            b's': 'skip',    # S键 - 跳过
+            b' ': 'next',    # 空格键 - 下一个
         }
 
     def get_input(self):
@@ -33,3 +36,19 @@ class InputManager:
         while True:
             if msvcrt.kbhit():
                 return msvcrt.getch()
+
+    def get_menu_choice(self, valid_choices):
+        """获取菜单选择
+        
+        Args:
+            valid_choices: 有效的选择列表,如 ['1','2','3','q']
+            
+        Returns:
+            str: 用户选择的选项
+        """
+        while True:
+            if msvcrt.kbhit():
+                key = msvcrt.getch().lower()
+                choice = key.decode('utf-8')
+                if choice in valid_choices:
+                    return choice

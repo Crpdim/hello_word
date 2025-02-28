@@ -1,92 +1,266 @@
 {
   "revolt": {
     "level": 4,
-    "next_review": "2025-04-08T23:58:03.052388",
-    "correct_count": 12,
-    "total_count": 14
+    "next_review": "2025-04-10T23:28:54.643680",
+    "correct_count": 17,
+    "total_count": 19
   },
   "specialist": {
     "level": 4,
-    "next_review": "2025-04-10T23:58:09.692394",
-    "correct_count": 11,
-    "total_count": 12
+    "next_review": "2025-04-12T23:28:56.257507",
+    "correct_count": 15,
+    "total_count": 16
   },
   "carpet": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:11.111647",
-    "correct_count": 9,
-    "total_count": 9
+    "next_review": "2025-04-14T23:28:57.335239",
+    "correct_count": 11,
+    "total_count": 11
   },
   "meditation": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:12.532639",
-    "correct_count": 8,
-    "total_count": 8
+    "next_review": "2025-04-14T23:29:01.270045",
+    "correct_count": 10,
+    "total_count": 10
   },
   "persist": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:14.068098",
-    "correct_count": 8,
-    "total_count": 8
+    "next_review": "2025-04-14T23:29:02.281748",
+    "correct_count": 10,
+    "total_count": 10
   },
   "avoid": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:15.359195",
-    "correct_count": 8,
-    "total_count": 8
+    "next_review": "2025-04-14T23:29:03.126925",
+    "correct_count": 10,
+    "total_count": 10
   },
   "yellow": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:16.686848",
-    "correct_count": 7,
-    "total_count": 7
+    "next_review": "2025-04-14T23:29:03.849068",
+    "correct_count": 9,
+    "total_count": 9
   },
   "consult": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:18.240178",
-    "correct_count": 7,
-    "total_count": 7
+    "next_review": "2025-04-14T23:29:04.823766",
+    "correct_count": 9,
+    "total_count": 9
   },
   "assume": {
     "level": 4,
-    "next_review": "2025-04-13T23:58:21.870201",
-    "correct_count": 6,
-    "total_count": 6
+    "next_review": "2025-04-14T23:29:05.724945",
+    "correct_count": 8,
+    "total_count": 8
   },
   "doctorate": {
-    "level": 0,
-    "next_review": "2025-02-28T23:58:24.910028",
-    "correct_count": 5,
-    "total_count": 7
+    "level": 3,
+    "next_review": "2025-03-20T23:29:07.045219",
+    "correct_count": 10,
+    "total_count": 12
   },
   "resultant": {
     "level": 0,
-    "next_review": "2025-02-28T23:58:27.934120",
-    "correct_count": 5,
-    "total_count": 10
+    "next_review": "2025-03-01T23:34:59.841954",
+    "correct_count": 13,
+    "total_count": 18
   },
   "fuse": {
-    "level": 1,
-    "next_review": "2025-03-02T23:53:01.379228",
-    "correct_count": 4,
-    "total_count": 5
+    "level": 3,
+    "next_review": "2025-03-20T23:29:09.177151",
+    "correct_count": 6,
+    "total_count": 7
   },
   "very": {
-    "level": 2,
-    "next_review": "2025-03-09T23:16:19.027459",
-    "correct_count": 2,
-    "total_count": 2
+    "level": 4,
+    "next_review": "2025-04-14T23:29:10.035317",
+    "correct_count": 4,
+    "total_count": 4
   },
   "critic": {
-    "level": 0,
-    "next_review": "2025-02-28T23:53:06.928762",
-    "correct_count": 3,
-    "total_count": 4
+    "level": 3,
+    "next_review": "2025-03-20T23:29:10.905495",
+    "correct_count": 6,
+    "total_count": 7
   },
   "ingenious": {
     "level": 0,
-    "next_review": "2025-02-28T23:53:02.812883",
+    "next_review": "2025-03-01T23:35:00.660617",
+    "correct_count": 8,
+    "total_count": 11
+  },
+  "continent": {
+    "level": 3,
+    "next_review": "2025-03-22T23:29:15.825459",
+    "correct_count": 3,
+    "total_count": 3
+  },
+  "residence": {
+    "level": 3,
+    "next_review": "2025-03-22T23:29:17.469782",
+    "correct_count": 3,
+    "total_count": 3
+  },
+  "puppet": {
+    "level": 2,
+    "next_review": "2025-03-09T23:29:18.797044",
+    "correct_count": 5,
+    "total_count": 6
+  },
+  "consultant": {
+    "level": 3,
+    "next_review": "2025-03-22T23:29:19.929763",
+    "correct_count": 3,
+    "total_count": 3
+  },
+  "preparation": {
+    "level": 3,
+    "next_review": "2025-03-22T23:29:24.121608",
+    "correct_count": 3,
+    "total_count": 3
+  },
+  "presume": {
+    "level": 2,
+    "next_review": "2025-03-10T23:29:25.925967",
+    "correct_count": 2,
+    "total_count": 2
+  },
+  "transistor": {
+    "level": 1,
+    "next_review": "2025-03-03T23:34:38.393160",
+    "correct_count": 4,
+    "total_count": 5
+  },
+  "precedent": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:28.421475",
     "correct_count": 1,
+    "total_count": 1
+  },
+  "capacity": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:30.160822",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "party": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:32.125227",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "equation": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:33.580534",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "commence": {
+    "level": 0,
+    "next_review": "2025-03-01T23:34:57.290436",
+    "correct_count": 3,
     "total_count": 4
+  },
+  "neglect": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:41.791179",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "contemporary": {
+    "level": 1,
+    "next_review": "2025-03-04T23:29:44.259182",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "continuous": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:05.992200",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "solution": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:07.572513",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "decision": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:09.026300",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "care": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:10.254049",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "politician": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:15.472579",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "critical": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:17.964074",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "obtain": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:19.498391",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "resistant": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:20.440579",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "pose": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:21.616434",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "vivid": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:22.642140",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "millimeter": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:23.732376",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "shiver": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:24.756084",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "escalate": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:27.634681",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "graduate": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:29.121978",
+    "correct_count": 1,
+    "total_count": 1
+  },
+  "spirit": {
+    "level": 1,
+    "next_review": "2025-03-04T23:35:30.867833",
+    "correct_count": 1,
+    "total_count": 1
   }
 }

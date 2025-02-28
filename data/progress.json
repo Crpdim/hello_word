@@ -3,310 +3,310 @@
   "words": [
     {
       "word": "revolt",
-      "last_reviewed": "2025-02-27T23:58:03.044377",
-      "review_count": 25,
-      "correct_count": 19,
+      "last_reviewed": "2025-02-28T23:28:54.635678",
+      "review_count": 30,
+      "correct_count": 24,
       "difficulty_level": 1
     },
     {
       "word": "specialist",
-      "last_reviewed": "2025-02-27T23:58:09.684371",
-      "review_count": 18,
-      "correct_count": 14,
-      "difficulty_level": 1
+      "last_reviewed": "2025-02-28T23:28:56.238503",
+      "review_count": 22,
+      "correct_count": 18,
+      "difficulty_level": 0
     },
     {
       "word": "carpet",
-      "last_reviewed": "2025-02-27T23:58:11.104638",
-      "review_count": 15,
-      "correct_count": 13,
+      "last_reviewed": "2025-02-28T23:28:57.328238",
+      "review_count": 17,
+      "correct_count": 15,
       "difficulty_level": 0
     },
     {
       "word": "meditation",
-      "last_reviewed": "2025-02-27T23:58:12.524759",
-      "review_count": 14,
-      "correct_count": 12,
+      "last_reviewed": "2025-02-28T23:29:01.263044",
+      "review_count": 16,
+      "correct_count": 14,
       "difficulty_level": 0
     },
     {
       "word": "persist",
-      "last_reviewed": "2025-02-27T23:58:14.059084",
+      "last_reviewed": "2025-02-28T23:29:02.273749",
+      "review_count": 14,
+      "correct_count": 14,
+      "difficulty_level": 0
+    },
+    {
+      "word": "avoid",
+      "last_reviewed": "2025-02-28T23:29:03.119923",
       "review_count": 12,
       "correct_count": 12,
       "difficulty_level": 0
     },
     {
-      "word": "avoid",
-      "last_reviewed": "2025-02-27T23:58:15.351186",
+      "word": "yellow",
+      "last_reviewed": "2025-02-28T23:29:03.842067",
       "review_count": 10,
       "correct_count": 10,
       "difficulty_level": 0
     },
     {
-      "word": "yellow",
-      "last_reviewed": "2025-02-27T23:58:16.677826",
-      "review_count": 8,
-      "correct_count": 8,
-      "difficulty_level": 0
-    },
-    {
       "word": "consult",
-      "last_reviewed": "2025-02-27T23:58:18.232036",
-      "review_count": 8,
-      "correct_count": 8,
+      "last_reviewed": "2025-02-28T23:29:04.815765",
+      "review_count": 10,
+      "correct_count": 10,
       "difficulty_level": 0
     },
     {
       "word": "assume",
-      "last_reviewed": "2025-02-27T23:58:21.860870",
-      "review_count": 7,
-      "correct_count": 7,
+      "last_reviewed": "2025-02-28T23:29:05.717944",
+      "review_count": 9,
+      "correct_count": 9,
       "difficulty_level": 0
     },
     {
       "word": "doctorate",
-      "last_reviewed": "2025-02-27T23:58:24.903044",
-      "review_count": 7,
-      "correct_count": 5,
-      "difficulty_level": 1
+      "last_reviewed": "2025-02-28T23:29:07.038218",
+      "review_count": 12,
+      "correct_count": 10,
+      "difficulty_level": 0
     },
     {
       "word": "resultant",
-      "last_reviewed": "2025-02-27T23:58:27.927638",
-      "review_count": 10,
-      "correct_count": 5,
-      "difficulty_level": 2
-    },
-    {
-      "word": "fuse",
-      "last_reviewed": "2025-02-27T23:53:01.371217",
-      "review_count": 5,
-      "correct_count": 4,
+      "last_reviewed": "2025-02-28T23:34:59.834952",
+      "review_count": 18,
+      "correct_count": 13,
       "difficulty_level": 1
     },
     {
+      "word": "fuse",
+      "last_reviewed": "2025-02-28T23:29:09.170149",
+      "review_count": 7,
+      "correct_count": 6,
+      "difficulty_level": 0
+    },
+    {
       "word": "very",
-      "last_reviewed": "2025-02-27T23:16:19.019711",
+      "last_reviewed": "2025-02-28T23:29:10.028315",
+      "review_count": 4,
+      "correct_count": 4,
+      "difficulty_level": 0
+    },
+    {
+      "word": "critic",
+      "last_reviewed": "2025-02-28T23:29:10.898497",
+      "review_count": 7,
+      "correct_count": 6,
+      "difficulty_level": 0
+    },
+    {
+      "word": "ingenious",
+      "last_reviewed": "2025-02-28T23:35:00.653619",
+      "review_count": 11,
+      "correct_count": 8,
+      "difficulty_level": 1
+    },
+    {
+      "word": "continent",
+      "last_reviewed": "2025-02-28T23:29:15.818457",
+      "review_count": 3,
+      "correct_count": 3,
+      "difficulty_level": 0
+    },
+    {
+      "word": "residence",
+      "last_reviewed": "2025-02-28T23:29:17.461781",
+      "review_count": 3,
+      "correct_count": 3,
+      "difficulty_level": 0
+    },
+    {
+      "word": "puppet",
+      "last_reviewed": "2025-02-28T23:29:18.790043",
+      "review_count": 6,
+      "correct_count": 5,
+      "difficulty_level": 0
+    },
+    {
+      "word": "consultant",
+      "last_reviewed": "2025-02-28T23:29:19.921762",
+      "review_count": 3,
+      "correct_count": 3,
+      "difficulty_level": 0
+    },
+    {
+      "word": "preparation",
+      "last_reviewed": "2025-02-28T23:29:24.113606",
+      "review_count": 3,
+      "correct_count": 3,
+      "difficulty_level": 0
+    },
+    {
+      "word": "presume",
+      "last_reviewed": "2025-02-28T23:29:25.917965",
       "review_count": 2,
       "correct_count": 2,
       "difficulty_level": 0
     },
     {
-      "word": "critic",
-      "last_reviewed": "2025-02-27T23:53:06.921013",
+      "word": "transistor",
+      "last_reviewed": "2025-02-28T23:34:38.385159",
+      "review_count": 5,
+      "correct_count": 4,
+      "difficulty_level": 1
+    },
+    {
+      "word": "precedent",
+      "last_reviewed": "2025-02-28T23:29:28.413473",
+      "review_count": 1,
+      "correct_count": 1,
+      "difficulty_level": 0
+    },
+    {
+      "word": "capacity",
+      "last_reviewed": "2025-02-28T23:29:30.153821",
+      "review_count": 1,
+      "correct_count": 1,
+      "difficulty_level": 0
+    },
+    {
+      "word": "party",
+      "last_reviewed": "2025-02-28T23:29:32.118226",
+      "review_count": 1,
+      "correct_count": 1,
+      "difficulty_level": 0
+    },
+    {
+      "word": "equation",
+      "last_reviewed": "2025-02-28T23:29:33.573532",
+      "review_count": 1,
+      "correct_count": 1,
+      "difficulty_level": 0
+    },
+    {
+      "word": "commence",
+      "last_reviewed": "2025-02-28T23:34:57.283436",
       "review_count": 4,
       "correct_count": 3,
       "difficulty_level": 1
     },
     {
-      "word": "ingenious",
-      "last_reviewed": "2025-02-27T23:53:02.807136",
-      "review_count": 4,
-      "correct_count": 1,
-      "difficulty_level": 2
-    },
-    {
-      "word": "continent",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "residence",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "puppet",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "consultant",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "preparation",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "presume",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "transistor",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "precedent",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "capacity",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "party",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "equation",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
-      "word": "commence",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
-      "difficulty_level": 0
-    },
-    {
       "word": "neglect",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:29:41.783181",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "contemporary",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:29:44.251181",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "continuous",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:05.985198",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "solution",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:07.565011",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "decision",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:09.019299",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "care",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:10.247047",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "politician",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:15.465074",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "critical",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:17.957076",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "obtain",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:19.491390",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "resistant",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:20.433578",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "pose",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:21.609434",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "vivid",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:22.635139",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "millimeter",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:23.725374",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "shiver",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:24.749083",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "escalate",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:27.626679",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "graduate",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:29.114977",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
       "word": "spirit",
-      "last_reviewed": null,
-      "review_count": 0,
-      "correct_count": 0,
+      "last_reviewed": "2025-02-28T23:35:30.860834",
+      "review_count": 1,
+      "correct_count": 1,
       "difficulty_level": 0
     },
     {
@@ -9550,6 +9550,13 @@
       "review_count": 10,
       "correct_count": 5,
       "difficulty_level": 2
+    },
+    {
+      "word": "commence",
+      "last_reviewed": "2025-02-28T23:29:39.555749",
+      "review_count": 1,
+      "correct_count": 0,
+      "difficulty_level": 0
     }
   ],
   "review_history": {
@@ -9560,6 +9567,10 @@
     "2025-02-27": {
       "total": 118,
       "correct": 102
+    },
+    "2025-02-28": {
+      "total": 100,
+      "correct": 97
     }
   }
 }

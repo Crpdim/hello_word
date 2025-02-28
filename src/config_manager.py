@@ -47,15 +47,24 @@ class ConfigManager:
                 return None
         return value
 
-class ModeManager:
-    def __init__(self):
-        self.mode = "vocab"  # 默认模式
+STUDY_MODES = {
+    '1': ('学习模式', 'normal_study_mode'),
+    '2': ('复习模式', 'review_mode'),
+    '3': ('智能模式', 'smart_mode'),  # 根据记忆算法自动安排
+}
 
-    def switch_mode(self, mode):
-        """切换学习模式"""
-        if mode in ["vocab", "long_sentence"]:
-            self.mode = mode
+# class ModeManager:
+    
+#     def __init__(self):
+#         self.mode = "vocab"  # 默认模式
 
-    def get_mode(self):
-        """获取当前模式"""
-        return self.mode
+#     def switch_mode(self, mode):
+#         """切换学习模式"""
+#         if mode in ["vocab", "long_sentence"]:
+#             self.mode = mode
+
+#     def get_mode(self):
+#         """获取当前模式"""
+#         return self.mode
+
+
